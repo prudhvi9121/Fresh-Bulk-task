@@ -7,7 +7,9 @@ A simple web application to view vegetables/fruits, place bulk orders, and manag
 - **Backend**: Node.js, Express
 - **Database**: SQLite
 - **Styling**: CSS
-- **Hosted Backend**: [Render](https://fresh-bulk-task.onrender.com/)
+ **Hosted Backend**: [Render](https://fresh-bulk-task.onrender.com/)
+- **Hosted Frontend**: [Vercel](https://fresh-bulk-task.vercel.app/)
+
 
 ## Features Implemented
 - **Buyers**:
